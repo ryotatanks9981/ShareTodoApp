@@ -1,0 +1,6 @@
+framework module Pods_ShareTodoApp_ShareTodoAppUITests {
+  umbrella header "Pods-ShareTodoApp-ShareTodoAppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

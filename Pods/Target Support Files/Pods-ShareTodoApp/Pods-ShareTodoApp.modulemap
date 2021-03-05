@@ -1,0 +1,6 @@
+framework module Pods_ShareTodoApp {
+  umbrella header "Pods-ShareTodoApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
